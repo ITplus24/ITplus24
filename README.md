@@ -10,6 +10,7 @@ this will build the necessery images and run backend, frontend, mongo and redis 
 
 ## Web Application
 
+after the containers is running
 visit http://localhost:3000
 
 ## Environemnt variables
