@@ -25,3 +25,13 @@ while running inside docker container
 this can be done by the environemnt variable for backend service called ENVIRONEMT='docker'
 
 thus it is still possible to send emails by assigning different value to the ENVIRONEMNT while running the backend service outside docker world
+
+## Technlogies
+
+Node.js - typescipt for backend service
+
+Reactjs for frontend service
+
+mongoDB as a database - storing the geolocation details object returned by the 3rd party for a specific address with indexing on the address property to impove the performance of read query
+
+redis for caching purposes "cache the mapping value between the address name enterd by user and the actual address name returned by the 3rd party API, so this addrss value can be used to fetch the related object directly from the database"
