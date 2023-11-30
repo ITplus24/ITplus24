@@ -20,7 +20,7 @@ which is a bad choice
 
 ## Mails
 
-since nodemailer has some issues when running inside a docker continer, I had to stop the send mails service
+since nodemailer has some issues when running inside a docker container, I had to stop the send mails service
 while running inside docker container
 
 this can be done by the environemnt variable for backend service called ENVIRONEMT='docker'
