@@ -2,8 +2,8 @@
 
 ## NOTE
 
-it seems that the client folders was not added with this repository , the problem comes from create react app which come with its own git repository so that the react application was not added with this repository,
-I readded it to another repository to keep this repository a time-valid submittion because I had to create a new git repository to add the client code and can not added it to this repository
+it seems that the client folders was not added with this repository , the problem comes from create react app which comes with its own git repository so that the react application was not added with this repository,
+I readded it to another repository to keep this repository a time-valid submittion because I had to create a new git repository to add the client code and can not add it to this repository
 link: https://github.com/mohammadalbasha/itPlust24-fxing-client-adding-problem
 
 ## Available Scripts
